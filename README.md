@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="assets/20221017_151105_0000.png">
-</p>
-<h1 align="center">
-  <b>Search Zone Bot</b>
-</h1>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Search-Zone+Bot+!;CREATED+BY+LUCIFER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
-<a href="https://github.com/Greymattersbot/EvaMaria2/stargazers"><img src="https://img.shields.io/github/stars/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Greymattersbot/EvaMaria2/network/members"> <img src="https://img.shields.io/github/forks/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Greymattersbot/EvaMaria2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Greymattersbot/EvaMaria2"> <img src="https://img.shields.io/github/repo-size/Greymattersbot/EvaMaria2?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/Greymattersbot/EvaMaria2/commits/Greymattersbot"> <img src="https://img.shields.io/github/last-commit/Greymattersbot/EvaMaria2?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 
 ### Features
 
@@ -75,7 +60,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/ritheshrkrm/PiroAutoFilterBot&branch=main&name=pirobot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/PrinceStarLord/EvaMaria2&branch=main&name=pirobot)
 </details>
 
 <details><summary>Deploy on Railway</summary>
@@ -127,30 +112,3 @@ unban  - to unban a use
 
 
 
-### Thanks to 
- - Thanks To Dan For His Awesome Library
- - Thanks To Mahesh For His Awesome Media-Search-bot
- - Thanks To Trojanz for Their Awesome Unlimited Filter Bot
- - Thanks To EvaMaria Devs For Their AutoFIlterBot
- - Thank To KD Bots
- - Thanks To Me For Wasting Time On This Repo Instead Of Studying :)
-
-━━━━━━━━━━━━━━━━━━━━
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-- <b>[ᴋᴜɴᴀʟ](https://github.com/KDBOTZ)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/KDBOTZ/LUCIFER) </b>
-- <b>[ᴇᴠᴀᴍᴀʀɪᴀ](https://github.com/EVAMARIATG)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/EVAMARIATG/EVAMARIA) </b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/KDBotz/LUCIFER/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʟᴜᴄɪғᴇʀ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
-### TELAGRAM SUPPORT 
-
-* [![GreyMatter's Support Group](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/GreyMatters_Bots_Discussion)
-
-
-
-### Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
